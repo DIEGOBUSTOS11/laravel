@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\DB;
 class UserController extends Controller
 {
     //
-//perra
+
     public function  index(){
 
     //$users = DB::table('users')->get(); //listado de usuarios dinamicamente
